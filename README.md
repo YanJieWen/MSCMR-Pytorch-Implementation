@@ -29,7 +29,11 @@ The datasets [COCO](https://cocodataset.org/) and homemade [Crash2024](https://d
 #download our code
 git clone https://github.com/YanJieWen/MSCMR-Pytorch-Implementation.git
 #into the repository
-cd 
+cd MSCMR-Pytorch-Implementation
+#change version (can be ignored)
+git checkout tags/XXX
+#It is recommended to run the code in edit mode
+pip install -v -e .
 ```
 
 ## How to start
