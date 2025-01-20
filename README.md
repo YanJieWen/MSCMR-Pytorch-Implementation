@@ -52,6 +52,10 @@ The extral changes are:
 MSCMR are built based on [cfg](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/tree/master/ultralytics/cfg/models/comambayolo).  
 ![image](assets/image_1.jpg)
 
+Our key contribution is 2DVmamba:
+![image](assets/image_2.jpg)
+
+
 ### Training
 
 ### Inference
