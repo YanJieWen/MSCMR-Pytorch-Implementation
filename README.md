@@ -21,7 +21,7 @@ Cuda version must be aligen with python&pytorch.
 
 ### Pretrained 
 The pretrianed `pt` weights can be obtained in the [Ultralytics](https://docs.ultralytics.com/zh/models/yolov8/#overview), and put them into the `pretrained` root.  
-The datasets [COCO](https://cocodataset.org/) and homemade [Crash2024](https://drive.google.com/drive/folders/1Zrizj1F0A82NPA8Hh8rM3Be-rT1XOAiz). Putting them into the `datasets` root.
+The datasets [COCO](https://cocodataset.org/) and homemade [Crash2024](https://drive.google.com/drive/folders/1BJOdywj-hgXRKt_q0TEcBGpCV4Wojmhc?usp=drive_link). Putting them into the `datasets` root.
 
 
 ## How to start
