@@ -96,6 +96,33 @@ YOLOv8-S | 44.0 | 60.1
 
 
 ## Acknowledgements👍
+  ### Papers
+  [Mamba](https://arxiv.org/abs/2312.00752)  
+  
+  [vision Mamba](https://arxiv.org/abs/2401.09417)  
+  
+  [VMamaba](https://arxiv.org/abs/2401.10166)  
+  
+  [YOLOv10](https://arxiv.org/abs/2405.14458)  
+  
+  [YOLOMamba](https://arxiv.org/abs/2406.05835)  
+  
+  [Grad-CAM](https://link.springer.com/article/10.1007/S11263-019-01228-7)
+
+  ### Codes
+  [VMamba](https://github.com/MzeroMiko/VMamba)  
+  
+  [Ultralytics](https://github.com/ultralytics/ultralytics)  
+  
+  [YOLOMamba](https://github.com/HZAI-ZJNU/Mamba-YOLO)  
+  
+  [YOLOv10](https://github.com/THU-MIG/yolov10)  
+  
+  [mmdetection](https://github.com/open-mmlab/mmdetection)  
+  
+  [mmYOLO](https://github.com/open-mmlab/mmyolo)
 
 
 ## License
+[MIT](LICENSE) © YanjieWen
+
