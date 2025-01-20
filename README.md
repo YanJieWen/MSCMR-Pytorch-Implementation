@@ -9,7 +9,7 @@ A Multi-path Scanning Collaborative Mamba Framework with Receptive Field Prior A
 - [License](#License)
 
 
-## Preliminary
+## Preliminary🔧
 
 ### Requirments
 Causal CNN[![causalCNN](https://img.shields.io/badge/CUDA-CNN-blue)](https://github.com/Dao-AILab/causal-conv1d/releases)  
@@ -36,13 +36,28 @@ git checkout tags/XXX
 pip install -v -e .
 ```
 
-## How to start
+## How to start💻
+
+### Changes
+Our code is built on [Ultralytics](https://github.com/ultralytics/ultralytics).
+The extral changes are:
+[CoMamba block](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/tree/master/ultralytics/nn/comamba)  
+
+[PLA assigment](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/blob/master/ultralytics/utils/tal.py)  
+
+[KL divergence cost](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/blob/master/ultralytics/utils/metrics.py)
+### Overall Framework
+
+### Training
+
+### Inference
 
 
-## Results
+
+## Results☀️
 
 
-## Acknowledgements
+## Acknowledgements👍
 
 
 ## License
