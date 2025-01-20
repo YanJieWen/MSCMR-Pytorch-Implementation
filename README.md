@@ -49,6 +49,8 @@ The extral changes are:
 [KL divergence cost](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/blob/master/ultralytics/utils/metrics.py)
 
 ### Overall Framework
+MSCMR are built based on [cfg](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/tree/master/ultralytics/cfg/models/comambayolo).  
+![image](assets/image_1.jpg)
 
 ### Training
 
