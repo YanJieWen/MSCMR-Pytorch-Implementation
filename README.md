@@ -11,6 +11,9 @@ A Multi-path Scanning Collaborative Mamba Framework with Receptive Field Prior A
 
 ## Preliminary
 
+### Requirments
+Causal CNN[![causalCNN](https://img.shields.io/badge/CUDA-CNN-blue)](https://github.com/Dao-AILab/causal-conv1d/releases)  
+Selective State Space Model (S6)[![S6](https://img.shields.io/badge/CUDA-S6-blue)](https://github.com/state-spaces/mamba/releases)
 
 
 ## How to start
