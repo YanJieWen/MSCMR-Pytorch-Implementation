@@ -72,10 +72,15 @@ Taking `Small` version as example：
 
 
 
-
-
 ### Inference
+We train MSCMR on COCO, you can get the pretrained weight from:  
+[![MSCMR-Nano-COCO](https://img.shields.io/badge/CUDA-Nano-red)](https://drive.google.com/drive/folders/1ibZXjqyxoHPkNSKeLkd1HRNTG5tQk3SC?usp=drive_link)
 
+[![MSCMR-Small-COCO](https://img.shields.io/badge/CUDA-Nano-red)](https://drive.google.com/drive/folders/1g9EDylrVlyOiNVCvcPetZE71mP_0HByL?usp=drive_link)  
+
+We provide a variety of visualization services in [analysis.py](analysis.py), which is connected on [tools](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/tree/master/tools)
+
+1) get results which are saved as json-->[save_json.py](tools/save_json.py)
 
 
 ## Results☀️
