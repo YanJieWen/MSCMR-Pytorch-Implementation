@@ -87,6 +87,12 @@ We provide a variety of visualization services in [analysis.py](analysis.py), wh
 5) draw TP,FP,FN based on json file-->[get_detection.py](tools/get_detection.py)
 
 ## Results☀️
+Version | AP | AP50
+---- | ---- | ---- 
+MSCMR-N | 39.6 | 55.6
+YOLOv8-N | 36.4 | 51.3
+MSCMR-S | 45.8 | 62.9
+YOLOv8-S | 44.0 | 60.1
 
 
 ## Acknowledgements👍
