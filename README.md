@@ -24,6 +24,13 @@ The pretrianed `pt` weights can be obtained in the [Ultralytics](https://docs.ul
 The datasets [COCO](https://cocodataset.org/) and homemade [Crash2024](https://drive.google.com/drive/folders/1BJOdywj-hgXRKt_q0TEcBGpCV4Wojmhc?usp=drive_link). Putting them into the `datasets` root.  
 `COCO-like as JSON type is suggested`
 
+### Download
+```
+#download our code
+git clone https://github.com/YanJieWen/MSCMR-Pytorch-Implementation.git
+#into the repository
+cd 
+```
 
 ## How to start
 
