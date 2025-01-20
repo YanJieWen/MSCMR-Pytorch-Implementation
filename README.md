@@ -57,6 +57,15 @@ Our key contribution is 2DVmamba:
 
 
 ### Training
+Our MSCMR is follow [YOLOv8](https://github.com/ultralytics/ultralytics), there are 2 version supported: `Nano` and `Small`.  
+以`Small`版本为例：
+```
+1) change [tal.py](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/blob/master/ultralytics/utils/tal.py) -->``line 369`` aligen the model version
+```
+
+
+
+
 
 ### Inference
 
