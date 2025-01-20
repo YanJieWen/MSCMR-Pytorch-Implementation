@@ -46,7 +46,9 @@ The extral changes are:
 
 [PLA assigment](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/blob/master/ultralytics/utils/tal.py)  
 
-[KL divergence cost](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/blob/master/ultralytics/utils/metrics.py)
+[KL divergence cost](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/blob/master/ultralytics/utils/metrics.py)  
+
+[Visual tools](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/tree/master/tools)
 
 ### Overall Framework
 MSCMR are built based on [cfg](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/tree/master/ultralytics/cfg/models/comambayolo).  
@@ -58,10 +60,15 @@ Our key contribution is 2DVmamba:
 
 ### Training
 Our MSCMR is follow [YOLOv8](https://github.com/ultralytics/ultralytics), there are 2 version supported: `Nano` and `Small`.  
-以`Small`版本为例：
-```
+Taking `Small` version as example：
 1) change [tal.py](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/blob/master/ultralytics/utils/tal.py) -->``line 369`` aligen the model version
-```
+
+2) change [datasets cfg](https://github.com/YanJieWen/MSCMR-Pytorch-Implementation/tree/master/ultralytics/cfg/datasets)
+
+3) ``model=YOLO(./ultralytics/cfg/models/comambayolo/comamba-s.yaml)``
+
+4) ``model.train(data='./ultralytics/cfg/datasets/crash2024.yaml',batch=16,epochs=24,device=[0],lr0=0.01,pretrained='./pretrained/yolov8s-cls.pt')``
+
 
 
 
