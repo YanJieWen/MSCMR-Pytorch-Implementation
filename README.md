@@ -3,7 +3,7 @@ A Multi-path Scanning Collaborative Mamba Framework with Receptive Field Prior A
 
 # Contents
 - [Preliminary🔧](##Preliminary)
-- [How to start💻](##How to start)
+- [How to start💻](##Start)
 - [Results☀️](##Results)
 - [Acknowledgements👍](#Acknowledgements)
 - [License](#License)
