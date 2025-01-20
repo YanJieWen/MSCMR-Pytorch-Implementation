@@ -78,7 +78,7 @@ Taking `Small` version as example：
 
 
 
-## Results☀️
+## Results
 
 
 ## Acknowledgements👍
