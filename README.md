@@ -120,7 +120,9 @@ YOLOv8-S | 44.0 | 60.1
   
   [mmdetection](https://github.com/open-mmlab/mmdetection)  
   
-  [mmYOLO](https://github.com/open-mmlab/mmyolo)
+  [mmYOLO](https://github.com/open-mmlab/mmyolo)  
+
+  [Detection tools](https://github.com/z1069614715/objectdetection_script)
 
 
 ## License
