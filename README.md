@@ -1,4 +1,4 @@
-# MSCMR-Pytorch-Implementation
+# CVMR-Pytorch-Implementation
 A Multi-path Scanning Collaborative Mamba Framework with Receptive Field Prior Assignment
 
 # Contents
